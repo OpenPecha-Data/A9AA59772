@@ -1,0 +1,19 @@
+segment_sources:
+  I1DECEF70:
+    type: origin_type
+    relation: translation
+    language: en
+  I7D09DBFD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  03ab8b1a4a0f4f4287b4d9227d1b0909:
+    I1DECEF70: c8dee9f05eb240a6abdd8357cfac728b
+    I7D09DBFD: b262f166dbab40618422cb25b482ca4e
+  97f3e68f97514c3a904a864974ac22ae:
+    I1DECEF70: 8f2b1b69a4a24d49a7500c4b1bdc2503
+    I7D09DBFD: b2e160f9595c425484cf2324a30611cc
+  40aa725ed615432ab0621c75bc3e7f74:
+    I1DECEF70: 5f664a450de64ffc96adb82b43a791b4
+    I7D09DBFD: 645f0c8c47a34a22ab1404dacba0da21
